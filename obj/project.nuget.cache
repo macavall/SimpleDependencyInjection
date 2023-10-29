@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+uUwrWZFy/UbK1ehjoKaK5We2e6QyuIPeR0nGyfSMA8o+nZRT8MWFxFxAeyjfKUNrRx8fgVZZ4PAEJ4RXrOHoQ==",
+  "success": true,
+  "projectFilePath": "/Users/matthewcavallo/Projects/VSCode/dotnet1/dotnet1.csproj",
+  "expectedPackageFiles": [
+    "/Users/matthewcavallo/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/matthewcavallo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
